@@ -5,7 +5,7 @@
 Doc: https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/
 
 Questions:
-- Launch a pod with a busybox container that launches with the `sheep 3600` command (this command doesn't exist.
+- Launch a pod with a busybox container that launches with the `sleep 3600` command (this command doesn't exist.
 - Get the logs from the pod, then correct the error to make it launch `sleep 3600`.
 
 <details><summary>Solution</summary>
